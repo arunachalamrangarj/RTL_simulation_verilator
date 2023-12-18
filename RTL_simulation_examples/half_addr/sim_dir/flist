@@ -1,0 +1,2 @@
+../dut_src/half_addr.v
+../tb_src/half_addr_tb.v

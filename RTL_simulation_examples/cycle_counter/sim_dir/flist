@@ -1,0 +1,2 @@
+../dut_src/cycle_counter.v
+../tb_src/cycle_counter_tb.sv
