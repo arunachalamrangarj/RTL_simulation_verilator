@@ -1,0 +1,2 @@
+../dut_src/alu.v
+../tb_src/alu_tb.v
