@@ -1,4 +1,4 @@
-half_addr dir
+alu dir
 
 dut_src --> design file 
 sim_dirc --> flist and Makefile
